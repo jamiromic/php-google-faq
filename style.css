@@ -1,0 +1,37 @@
+/*Regole di Reset*/
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+
+}
+
+
+img {
+    max-width: 100%;
+
+}
+
+main {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.ol_ab {
+    list-style-type: lower-alpha;
+}
+
+.title_faq {
+    padding: 1.5rem 0;
+    font-weight: 600;
+    font-size: 1.35rem;
+    color: #3C4043;
+}
+
+p,
+li {
+    line-height: 2rem;
+    font-size: 0.85rem;
+}
